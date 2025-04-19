@@ -3,15 +3,15 @@ This project demonstrates how to build a spam mail classifier using machine lear
 
 ## Objective 
 Email spam classification is a classic problem in natural language processing (NLP). In this project, we:
-- Preprocess a dataset of labeled emails
-- Transform text data into numerical features using `TfidfVectorizer`
-- Train a **Logistic Regression** model
-- Evaluate the model's performance on unseen data
+- Preprocess a dataset of labeled emails.
+- Transform text data into numerical features using `TfidfVectorizer`.
+- Train a **Logistic Regression** model.
+- Evaluate the model's performance on unseen data.
   
 ## Dataset
 This project uses one dtatsets, `mail_data.csv`. This dataset contains **5572 rows** and **2 columns**
-- `Category`: Indicates the label of the message (`spam` or `ham`) 
-- `Message`: Contains the actual text of the mail
+- `Category`: Indicates the label of the message (`spam` or `ham`).
+- `Message`: Contains the actual text of the mail.
 
 ## Tools and Libraries 
 -**Python:** Core language used for analysis and modeling.
