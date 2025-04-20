@@ -14,10 +14,10 @@ This project uses one dtatsets, `mail_data.csv`. This dataset contains **5572 ro
 - `Message`: Contains the actual text of the mail.
 
 ## Tools and Libraries 
--**Python:** Core language used for analysis and modeling.
--**Pandas:** For data manipulation and preprocessing.
--**Numpy:** For numerical operations and creating ranges used in plotting.
--**Scikit-Learn:** For machine learning modeling and evaluation.
+- **Python:** Core language used for analysis and modeling.
+- **Pandas:** For data manipulation and preprocessing.
+- **Numpy:** For numerical operations and creating ranges used in plotting.
+- **Scikit-Learn:** For machine learning modeling and evaluation.
 
 ## Step-by-Step Process
 ### **Step 1: Importing the Dependencies**
