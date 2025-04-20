@@ -47,8 +47,8 @@ This project uses one dtatsets, `mail_data.csv`. This dataset contains **5572 ro
 - Allowed input of raw text to predict whether the email is spam or ham.
 
 ## Results
-**Accuracy**: ~97%.
-**Confusion Matrix**
+- **Accuracy**: ~97%.
+- **Confusion Matrix**
 
 ## Future Improvements
 - Test with other classifiers (Naive Bayes, SVM, Random Forest)
