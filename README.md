@@ -48,6 +48,7 @@ This project uses one dtatsets, `mail_data.csv`. This dataset contains **5572 ro
 
 ## Results
 **Accuracy**: ~97% 
+**Confusion Matrix**
 
 ## Future Improvements
 - Test with other classifiers (Naive Bayes, SVM, Random Forest)
